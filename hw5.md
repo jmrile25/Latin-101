@@ -1,7 +1,7 @@
 **+1 Needs revisions**
 
 Meleager was the son of Oineus, king of Calydon.
-Melager erat filii Oineus, rex Caludaris.❌
+Melager erat filii Oineus, rex Caludaris.❌ regis Caludaris
 His mother was Althaea.
 Is Matris erat Althaea.❌
 That woman was the daughter of Thestius.
