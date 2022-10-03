@@ -1,4 +1,4 @@
-`Antaeum, terrae filium, in Libyā *Hercules* **occidit**. *hic* `hospites **interficiebat**; *hunc* luctando *ille* **necauit**. 'Cygnum, Martis filium, armis **occidit**. *Mars* **uenit** et armis propter filium contendit cum eo, sed *Iouis* inter eos `fulmen **misit**. ceto *Hesione* **apposita est** Troiae. *eum* **occidit**; `Laomedonta, patrem Hesiones, *quod* 'eam non **reddebat**, sagittis **interfecit**.
+`Antaeum`, terrae filium, in Libyā *Hercules* **occidit**. *hic* `hospites` **interficiebat**; *hunc* luctando *ille* **necauit**. `Cygnum`, Martis filium, armis **occidit**. *Mars* **uenit** et armis propter filium contendit cum eo, sed *Iouis* inter eos `fulmen` **misit**. ceto *Hesione* **apposita est** Troiae. *eum* **occidit**; `Laomedonta`, patrem Hesiones, *quod* `eam` non **reddebat**, sagittis **interfecit**.
 Grammar and Analysis
 (1) In the passage you have copied into your file, highlight finite verbs, subjects and direct objects using the following markdown conventions:
 (2) To what declension does Antaeum belong to?
