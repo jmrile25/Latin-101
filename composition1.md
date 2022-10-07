@@ -1,4 +1,4 @@
-Prometheus ignem deis cepit. 
+Prometheus ignem de deis cepit. 
 Ille ignem homines dabat. 
 Prometheus ab deis ob factum mittebatur. 
 Ille in corde apud aquilam oppugnatus erat. 
