@@ -1,17 +1,22 @@
+**+1 Needs revisions.**
 Identifying verbs
 The following paragraph contains seven finite verbs. Using this list of additional vocabulary and your required vocabulary from Unit 1, list each verb and fully identify it. Additional vocabulary:
 contendo, contendere, contendi, contentus, “fight”
 occido, occidere, occidi, occisus, “strike down, kill”
 neco, necāre, necaui, necatus, “slay”
 Antaeum, terrae filium, in Libyā Hercules occidit. hic hospites interficiebat; hunc luctando ille necauit. Cygnum, Martis filium, armis occidit. Mars uenit et armis propter filium contendit cum eo, sed Iouis inter eos fulmen misit.
-Verbs: 
+
+Verbs:  ❌ **Don't forget number!**
+
 Occidit (Is in the passage twice): occido, occidere, occidi, occisus, “strike down, kill” third principal part, perfect, third person, active voice, Indicative mood
 Interficiebat: interficiō, interficĕre, interfēcī, - interfectus - to kill, second principle part, imperfect, third person, active voice, Indicative mood
 Necauit: neco, necāre, necaui, necatus, “slay” third principle part, perfect, third person, active voice, Indicative mood
 Uenit: ueniō, uenīre, uēnī, uentus - to come, third principle part, perfect, third person, active voice, Indicative mood
 Contendit: contendo, contendere, contendi, contentus, “fight” third principle part, perfect, third person, active voice, Indicative mood
 Misit: mittō, mittĕre, mīsī, missus - to send, third principle part, perfect, third person, active voice, Indicative mood
-Noun-adjective agreement
+
+
+Noun-adjective agreement ❌
 Complete a full declension of the phrase “the previous god” (prior deus).
 Singular
 Case	        Masculine	      Feminine	      Neuter
@@ -27,7 +32,10 @@ Genitive	 	 	Priorum Deorum.  Priorum Dearum. Priorum Deorum
 Dative	 	 	  Prioribus Deis.  Prioribus Deis  Prioribus Deis
 Accusative	 	Priores Deos.    Priores Deas    Priora Dea
 Ablative      Prioribus Deis.  Prioribus Deis. Prioribus Deis
-Pronouns
+
+
+
+Pronouns ❌
 Complete the following declension of the Latin phrase “the former-mentioned ship” (as opposed to the “the latter-mentioned ship”).
 Singular
 Case	        Masculine	       Feminine	       Neuter
@@ -43,11 +51,13 @@ Genitive	 	  Illorum Navum.   Illarum Navum.  Illorum Navum
 Dative	 	 	  Illis Navibus.   Illis Navibus.  Illis Navibus
 Accusative	 	Illos Naves      Illas Naves     Illa Nava 
 Ablative	 	 	Illis Navibus.   Illis Navibus.  Illis Navibus
+
+
 Verb forms
 Complete the following synopsis of the third person singular of capio in the indicative mood. Assume a feminine subject.
 Tense and voice	          Form
-Imperfect active.         Capebat	 
-Imperfect passive	        Capebatur 
+Imperfect active.         Capebat❌	 
+Imperfect passive	        Capebatur ❌
 Perfect active	          Cepit 
 Perfect passive	          Capta Est
 Complete the following synopsis of the third person plural of uideo in the indicative mood. Assume a neuter subject.
@@ -55,4 +65,4 @@ Tense and voice	          Form
 Imperfect active.         Uidebant	      
 Imperfect passive	        Uidebantur 
 Perfect active	          Uidit
-Perfect passive	          Uisum Sunt
+Perfect passive	          Uisum Sunt ❌
