@@ -8,7 +8,7 @@ Grammar and Analysis
 (3) What case is terrae and what other noun is it working with?
 Terrae is in the Genitive case and it is working with the noun Filium. ✅
 (4) What is the antecedent of hic?
-The antecedent of hic is Hercules. ❌
+The antecedent of hic is Hercules. ❌ The antecedent of hic is Antaeum.
 (5) What case is armis?
 Armis is in the Genitive case.❌
 (6) Explain the construction cum eo?
@@ -20,4 +20,4 @@ Apposita Est is 3rd person, Singular, Perfect tense, Passive voice, and is in th
 (9) What is the antecedent of eam?
 The antecendent of Eam is Hesiones✅
 Translation:
-Hercules killed Antaeus, the son of the earth in Lybia. This host was killed ❌; by wrestling that killed this ❌. Cygnus, the son of Mars, was killed. ❌ And Mars came on account of **the war his son drew out with**, but between his❓ Jupiter sent lightning. The seamonster❌ (Whale) Hesione was appointed to Troy. He killed him; Laomedon, the father of Hesione, because she was not returned, killed with arrows.
+Hercules killed Antaeus, the son of the earth in Lybia. This host was killed ❌ He killed guests; by wrestling that killed this ❌ Hercules killed him by wrestling. Cygnus, the son of Mars, was killed. ❌ And Mars came on account of **the war his son drew out with**, but between his❓ but between them, Jupiter sent lightning. The seamonster❌ (Whale) Hesione was appointed to Troy. He killed him; Laomedon, the father of Hesione, because she was not returned, killed with arrows.
