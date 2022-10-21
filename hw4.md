@@ -1,11 +1,11 @@
-**+1 Needs revisions.  Note spelling: *nominative*.**
+**+2 Satisfactory**
 
 What are the three genders of Latin nouns?
 Masculine, Feminine, and Neuter
 What are the three pieces of information in a Latin dictionary entry for a noun?
-Gender, Case, and Number❌ Nominative singular, Genitive singular, and gender
+Gender, Case, and Number❌ Nominative singular, Genitive singular, and gender ✅
 How do you figure out what declension a noun belongs to?
-The endings of the noun.❓**Can you be more specific?** You look at the genitive singular ending.
+The endings of the noun.❓**Can you be more specific?** You look at the genitive singular ending. ✅
 Like Latin, you can easily describe one noun with another noun in English (e.g., “the book’s title”, “the format of the assignment”). What case do you use in Latin to describe one noun with another noun?
 Genitive
 What case does Latin use to name the subject of a verb?
@@ -18,4 +18,4 @@ nomen dei: Nomen: singular, masculine, nominaitve. Dei: singular, masculine, gen
 filii deorum: Filii: plural, masculine, nominative. Deorum: plural, masculine, genitive.
 nomina filiorum: Nomina: plural, neuter, nominative. Filiorum: plural, masculine, genitive.
 Translate the first noun phrase, amor Deianirae, into English. What are two different meanings that the phrase could have?
-Deianira loves, loved is Deianira.❌ Deianira loves, Deianira is loved
+Deianira loves, loved is Deianira.❌ "Love of Deianira", meaninging either "Deianira loves", "Deianira is loved"
