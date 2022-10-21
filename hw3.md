@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 Complete the following chart (called a synopsis) with the third-person singular forms of amo:
 Tense/mood.  form
@@ -9,15 +9,15 @@ Imperfect Passive: amāvatur❌ amābatur
 Complete the following synopsis with the third-person plural forms of audio:
 Tense/mood.   form
 Perfect Active: auderunt❌ audiuerunt
-Perfect Passive: auditi-ae-a❌ auditi-ae-a est
-Imperfect Active: audibant❌ audībant
-Imperfect Passive: audibantur❌ audībantur
+Perfect Passive: auditi-ae-a❌ auditi-ae-a sunt
+Imperfect Active: audibant❌ audīebant
+Imperfect Passive: audibantur❌ audīebantur
 Complete the following synopsis with the third-person singular forms of capio:
 Tense/mood	form
 Perfect Active: cepit
 Perfect Passive: captus-a-um est
-Imperfect Active: capebat❌ capĕbat
-Imperfect Passive: capebatur❌ capĕbatur`
+Imperfect Active: capebat❌ capiĕbat
+Imperfect Passive: capebatur❌ capiĕbatur`
 Fully identify the following verb forms. (That is, give their person, number, tense, mood and voice, and their first principal part).
 uenērunt: third person, plural, perfect, indicative, active, ueniō
 interfectus est: third person, singular, perfect, indicative, passive, interficiō 
