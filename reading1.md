@@ -10,7 +10,7 @@ Terrae is in the Genitive case and it is working with the noun Filium. ✅
 (4) What is the antecedent of hic?
 The antecedent of hic is Hercules. ❌ The antecedent of hic is Antaeum.
 (5) What case is armis?
-Armis is in the Genitive case.❌
+Armis is in the Genitive case.❌ Armis is Dative plural.
 (6) Explain the construction cum eo?
 The construction cum eo is a cum plus a noun in the ablative case construction, which translates to with. Is also a masculine pronoun in the ablative case.✅
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
