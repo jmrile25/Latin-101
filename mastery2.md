@@ -7,14 +7,14 @@ Nominative	hic imprudens filius
 Genitive	 huius imprudentis filii
 Dative	 huic imprudenti filio
 Accusative	 hunc imprudentem filium
-Ablative	 hoc imprudenti filio
+Ablative	 hoc imprudente filio
 Plural
 Case	           Form
 Nominative	 hi imprudentes filii
-Genitive	 horum imprudentium filorum
-Dative	 his imprudentibus filiis
+Genitive	 horum imprudentum filiorum
+Dative	 his imprudentis filiis
 Accusative	 hos imprudentes filios
-Ablative	 his imprudentibus filii
+Ablative	 his imprudentis filiis
 
 Case usage
 Compose a Latin expression for the highlighted phrases. In addition to your familiar vocabulary, use:
@@ -31,9 +31,9 @@ temporo
 4. Cydippe was not able to go to the festival.
 posset non ire
 5. Cleops and Bitias wanted to bring their mother to the festival.
-
+Vollebat agere
 6. They yoked themselves to a wagon.
-
+sibi
 7. They pulled the wagon for many hours.
 multam horam
 8. When Cydippe was brought to the festival by her sons, all the onlookers were amazed.
