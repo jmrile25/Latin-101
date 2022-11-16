@@ -8,7 +8,7 @@ Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Sim
 A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 B. Grammatical Questions
-What is the grammatical function of Iapetī fīlius prīmus? The grammatical function of Iapetī fīlius prīmus is that it is genitive and Iapeti is comparing nouns.
+What is the grammatical function of Iapetī fīlius prīmus? The grammatical function of Iapetī fīlius prīmus is that it is genitive ❌ and Iapeti is comparing nouns.
 Parse fingēbat and tell me what conjugation it belongs to. fingō, fingere, finxī, fictus - to fashion, it belongs to the 2nd Declension. ❌**Please identify with person, number, tense, mood and voice.** 
 What type of adjective is huic, what case is it in, and what word does it agree with? Huic is part of Hic, Haec, Hoc. The word that it agrees with is feminae. ❌**What case is it?**
 Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. The sentence structure is transitive active. omnes is ablative❌, dei is the subject, dona is the direct object, ei is the indirect object, miserunt is the verb, it is 3rd person singular, active, perfect tense, and in the indicative mood.
