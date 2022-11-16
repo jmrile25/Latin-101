@@ -1,3 +1,5 @@
+**+1 Needs revisions**
+
 Passage to analyze
 Highlighting like this indicates words or phrases referred to in grammatical questions.
 
@@ -7,12 +9,12 @@ A. Grammatical Analysis
 Surround all the verbs with two asterisks. (These will display as bold text.) Surround all the subjects with one asterisk. (These will display as italic text.)
 B. Grammatical Questions
 What is the grammatical function of Iapetī fīlius prīmus? The grammatical function of Iapetī fīlius prīmus is that it is genitive and Iapeti is comparing nouns.
-Parse fingēbat and tell me what conjugation it belongs to. fingō, fingere, finxī, fictus - to fashion, it belongs to the 2nd Declension.
-What type of adjective is huic, what case is it in, and what word does it agree with? Huic is part of Hic, Haec, Hoc. The word that it agrees with is feminae. 
-Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. The sentence structure is transitive active. omnes is ablative, dei is the subject, dona is the direct object, ei is the indirect object, miserunt is the verb, it is 3rd person singular, active, perfect tense, and in the indicative mood.
-Parse data est and indicate what conjugation the verb belongs to. dō, dāre, dedī, datus - to give, it belongs to the 1st Declension.
+Parse fingēbat and tell me what conjugation it belongs to. fingō, fingere, finxī, fictus - to fashion, it belongs to the 2nd Declension. ❌**Please identify with person, number, tense, mood and voice.** 
+What type of adjective is huic, what case is it in, and what word does it agree with? Huic is part of Hic, Haec, Hoc. The word that it agrees with is feminae. ❌**What case is it?**
+Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. The sentence structure is transitive active. omnes is ablative❌, dei is the subject, dona is the direct object, ei is the indirect object, miserunt is the verb, it is 3rd person singular, active, perfect tense, and in the indicative mood.
+Parse data est and indicate what conjugation the verb belongs to. dō, dāre, dedī, datus - to give, it belongs to the 1st Declension.❌
 What type of grammatical construction is ab Iove? It is a ab+ an ablative noun construction.
 What tense is erat and what are the principle parts of the verb it comes from? Erat is in the Imperfect tense. The principle parts are sum, esse, fui.
 C. Translation
 Please translate the passage into idiomatic English.
-Long ago Prometheus, the first son of Lapetus, a human was fasioned out of the mud. At the same time Vulcan was making the woman out of the mud. This woman gave her soul to Miverva and all the gods sent gifts to him. On account of the name "Pandora" being given to him. Pandora was given by Jupiter in marriage to Epimetheus. His daughter became Pyrrha, the first mortal.  
+Long ago Prometheus, the first son of Lapetus, a human was fasioned out of the mud.❌ At the same time Vulcan was making the woman out of the mud. This woman gave her soul to Miverva❌ and all the gods sent gifts to him. On account of the name "Pandora" being given to him.❌**This is not an English sentence?** Pandora was given by Jupiter in marriage to Epimetheus. His daughter became❓ Pyrrha, the first mortal.  
